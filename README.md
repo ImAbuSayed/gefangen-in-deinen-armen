@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gefangen-in-deinen-armen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Gefangen in deinen Armen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gefangen-in-deinen-armen/) |
+| **Get License** | [Get License For Gefangen in deinen Armen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gefangen-in-deinen-armen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Gefangen in deinen Armen, die Skyline brennt für uns
+> Dein Body pure Magie, Baby, ich verlier Vernunft
+> Du ziehst mich in den Bann, mein Herz schlägt im 808-Takt
+> Ich brauche deine Lippen, hab die ganze Welt verpackt
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
